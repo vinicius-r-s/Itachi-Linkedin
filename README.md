@@ -5,9 +5,9 @@
 <h4 align="center" style="margin-bottom: 48px;">A redesign of LinkedIn made by  <a href="https://www.instagram.com/danielsnows/" style="color: #FD2B53;" target="_blank">@danielsnows</a> and built by me with <a href="https://reactjs.org/" style="color: #FD2B53;" target="_blank">React.js</a> and <a href="https://www.typescriptlang.org/" style="color: #FD2B53;" target="_blank">TypeScript</a>.</h4>
 
 <p align="center">
-  <a href="## :rocket: Languages and Tools">Languages and Tools</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#credits">Credits</a>
+  <a href="#rocket-languages-and-tools">Languages and Tools</a> •
+  <a href="#computer-how-to-use">How To Use</a> •
+  <a href="#mailbox_with_mail-credits">Credits</a>
 </p>
 
 <h1 align="center">
@@ -65,7 +65,7 @@
 
 </p>
 
-## 💻 How To Use
+## :computer: How To Use
 To clone and run this application, you'll need Git and Node.js (which comes with npm or yarn) installed on your computer. From your command line:
 
 ```bash
@@ -86,7 +86,7 @@ $ npm start
 $ yarn start
 ```
 
-## :mailbox: Credits
+## :mailbox_with_mail: Credits
 
 Follow the original author:
 <a href="https://www.instagram.com/danielsnows/" style="color: #FD2B53;" target="_blank">@danielsnows</a>
