@@ -1,46 +1,92 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img src="assets/il-logo.svg" alt="Itachi LinkedIn" width="300">
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center" style="margin-bottom: 48px;">A redesign of LinkedIn made by  <a href="https://www.instagram.com/danielsnows/" style="color: #FD2B53;" target="_blank">@danielsnows</a> and built by me with <a href="https://reactjs.org/" style="color: #FD2B53;" target="_blank">React.js</a> and <a href="https://www.typescriptlang.org/" style="color: #FD2B53;" target="_blank">TypeScript</a>.</h4>
 
-## Available Scripts
+<p align="center">
+  <a href="## :rocket: Languages and Tools">Languages and Tools</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#credits">Credits</a>
+</p>
 
-In the project directory, you can run:
+<h1 align="center">
+    <img style="border-radius: 24px;" src="assets/screens-01.png" alt="Screens" >
+</h1>
+<h4 align="center" style="margin-bottom: 48px;">You can view the <a href="https://www.figma.com/file/IFfQT5OdPtUf6mse1lkuP2/Itachi-Linkedin?node-id=1%3A2" style="color: #FD2B53; font-weight:bold" target="_blank">Figma Project here</a></h4>
 
-### `yarn start`
+## :rocket: Languages and Tools
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img 
+      src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" 
+      alt="html5" 
+      width="40" 
+      height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img 
+      src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" 
+      alt="css3" 
+      width="40" 
+      height="40"/> 
+  </a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+ 
+  <a href="https://www.figma.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
+        alt="figma" 
+        width="40" 
+        height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" 
+        alt="illustrator" 
+        width="40" 
+        height="40"/> 
+  </a> 
 
-### `yarn test`
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 How To Use
+To clone and run this application, you'll need Git and Node.js (which comes with npm or yarn) installed on your computer. From your command line:
 
-### `yarn build`
+```bash
+# Clone this repository
+$ git clone https://github.com/vinicius-r-s/Itachi-Linkedin.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Go into the repository
+$ cd Itachi-Linkedin
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Install dependencies
+$ npm i
+# Or
+$ yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Run the app
+$ npm start
+# Or
+$ yarn start
+```
 
-### `yarn eject`
+## :mailbox: Credits
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Follow the original author:
+<a href="https://www.instagram.com/danielsnows/" style="color: #FD2B53;" target="_blank">@danielsnows</a>
